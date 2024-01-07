@@ -1,0 +1,61 @@
+{
+  "ascii": [                                                         
+    "##    ##    ###    ########     ###    ##     ##",
+				" ##  ##    ## ##   ##     ##   ## ##   ##     ##", 
+				"  ####    ##   ##  ##     ##  ##   ##  ##     ##",
+				"   ##    ##     ## ##     ## ##     ## ##     ##", 
+				"   ##    ######### ##     ## #########  ##   ##",  
+				"   ##    ##     ## ##     ## ##     ##   ## ##",   
+				"   ##    ##     ## ########  ##     ##    ###"    
+  ],
+  "title":    "Terminal",
+  "username": "visitor",
+  "hostname": "asimov",
+  "password": "Yadav106",
+  "social": {
+    "email": "sahil.jp.yadav@gmail.com",
+    "github": "Yadav106",
+    "linkedin": "sahil-yadav106"
+  },
+"aboutGreeting": "Hello there! I am Sahil Yadav, a third year Computer Engineering undergraaduate student from Thakur College of Engineering and Technology<br>(sudo=Yadav106)",
+  
+"projects": [
+				[
+						"Patch Astra",
+						"A patching tool I built during my internship which helps you install patches for Windows and Linux vulnerabilities.",
+						"https://secops-solution-website.webflow.io/patch-astra"
+				],
+    [
+      "Next Chat App",
+      "A Chat Application built with NextJS with built in authentication and real time chat.",
+      "https://github.com/Yadav106/next-chat-app"
+    ],
+    [
+      "Look It Up",
+      "A web dictionary built with ReactJS",
+      "https://github.com/Yadav106/look-it-up"
+    ]
+],
+  "colors": {
+    "background": "#121e26",
+    "banner": "#dce7f3",
+    "border": {
+      "visible": false,
+      "color": "#a2efab"
+    },
+    "prompt": {
+      "default": "#A5A7A7",
+      "user": "#FE6BC9",
+      "host": "#70FDFF",
+      "input": "#FF7685"
+    },
+    "link": {
+      "text": "#B6AAEE",
+      "highlightColor": "#FFADE2",
+      "highlightText": "#0C0623"
+    },
+    "commands": {
+      "textColor": "#FD9BDB"
+    }
+  }
+}
